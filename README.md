@@ -6,22 +6,22 @@ This project is a full-stack web application that allows users to order food onl
 
 Features:
 
- User-friendly Interface: The website is designed to be easy to navigate and use for customers with a focus on clarity   and intuitive interactions.
+ User-friendly Interface:  The website is designed to be easy to navigate and use for customers with a focus on clarity   and intuitive interactions.
  
- Category Filtering:Users can easily filter restaurants by category, making it simpler to find their desired food options.
+ Category Filtering:  Users can easily filter restaurants by category, making it simpler to find their desired food options.
 
- Secure Payment Processing: Stripe integration ensures a safe and reliable payment experience for customers.
+ Secure Payment Processing:  Stripe integration ensures a safe and reliable payment experience for customers.
 
- Comprehensive Checkout Page: The checkout page clearly summarizes the order details (items, quantities, prices, delivery fees) and provides multiple payment options with Stripe.
+ Comprehensive Checkout Page:  The checkout page clearly summarizes the order details (items, quantities, prices, delivery fees) and provides multiple payment options with Stripe.
 
- Admin Panel: Restaurant owners or administrators can manage their menus, update pricing, track orders, and access important statistics through a dedicated admin interface.
+ Admin Panel:  Restaurant owners or administrators can manage their menus, update pricing, track orders, and access important statistics through a dedicated admin interface.
 
 Technologies:
 
- Frontend: React 
- Backend: Node.js/Express.js
- Database: MongoDB
- Payment Gateway: Stripe
+ Frontend: React <br>
+ Backend: Node.js/Express.js<br>
+ Database: MongoDB<br>
+ Payment Gateway: Stripe<br>
 
 Installation:
 
@@ -32,13 +32,13 @@ Installation:
    
 2. Install dependencies:
    
-   cd food-del\admin>
+   cd food-del\admin><br>
    npm install 
 
-   cd food-del\backend>
+   cd food-del\backend><br>
    npm install
 
-   cd food-del\frontend>
+   cd food-del\frontend><br>
    npm install
    
 3. Configure database connection:
@@ -56,13 +56,13 @@ Running the Application:
 
 1. Start the development server:
    
-   cd food-del\backend>
+   cd food-del\backend><br>
    npm  run server
 
-   cd food-del\admin>
+   cd food-del\admin><br>
    npm  run dev
 
-   cd food-del\frontend>
+   cd food-del\frontend><br>
    npm  run dev
    
  The application will typically launch in your default web browser.

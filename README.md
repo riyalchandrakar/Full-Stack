@@ -23,6 +23,10 @@ Technologies:
  Database: MongoDB<br>
  Payment Gateway: Stripe<br>
 
+
+Live website 🔗:https://food-del-frontend-7swt.onrender.com
+
+
 Installation:
 
 

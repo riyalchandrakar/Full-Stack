@@ -30,11 +30,11 @@ Live website 🔗:https://food-del-frontend-7swt.onrender.com
 Installation:
 
 
-1. Clone the repository:
+  step 1: Clone the repository:
 
-  https://github.com/riyalchandrakar/Full-Stack.git   
+      https://github.com/riyalchandrakar/Full-Stack.git   
    
-2. Install dependencies:
+  step 2: Install dependencies:
    
    cd food-del\admin><br>
    npm install 
@@ -44,13 +44,17 @@ Installation:
 
    cd food-del\frontend><br>
    npm install
+
+
+Note:you can skip step 4 & 5 if you don't want to create your own connection string and stripe API key.
+
    
-3. Configure database connection:
+step 4: Configure database connection:
 
-   - create and Copy the Connection String And Paste It inside food-del\backend\config>  file `db.js` replace password with password you set previously.
+   - create and Copy the Connection String And Paste It inside food-del\backend\config>  file `db.js` replace password    with password you set previously.
 
 
-4. Configure Stripe:
+step 5: Configure Stripe:
 
    - Create a Stripe account and obtain your API key.
    -Open .env file in backend folder paste your stripe secret key in STRIPE_SECRET_KEY variable.
@@ -58,11 +62,13 @@ Installation:
 
 Running the Application:
 
-1. Start the development server:
+   step 1: Start the development server:
    
-   cd food-del\backend><br>
-   npm  run server
+         cd food-del\backend><br>
+         npm  run server
 
+   step 2:
+  
    cd food-del\admin><br>
    npm  run dev
 

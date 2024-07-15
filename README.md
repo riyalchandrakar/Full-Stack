@@ -46,7 +46,7 @@ Installation:
    npm install
 
 
-Note:you can skip step 4 & 5 if you don't want to create your own connection string and stripe API key.
+Note: you can skip step 4 & 5 if you don't want to create your own connection string and stripe API key.
 
    
 step 4: Configure database connection:
@@ -62,10 +62,12 @@ step 5: Configure Stripe:
 
 Running the Application:
 
-   step 1: Start the development server:
+   step 1: 
    
-         cd food-del\backend><br>
-         npm  run server
+   Start the development server:
+   
+   cd food-del\backend><br>
+   npm  run server
 
    step 2:
   

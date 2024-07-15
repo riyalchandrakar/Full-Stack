@@ -8,7 +8,8 @@ This project is a full-stack web application that allows users to order food onl
 <br>
 Features:
 
-<br>
+
+
  1.User-friendly Interface:  The website is designed to be easy to navigate and use for customers with a focus on clarity   and intuitive interactions.
  
  2.Category Filtering:  Users can easily filter restaurants by category, making it simpler to find their desired food options.
@@ -22,7 +23,8 @@ Features:
 
 <br>
 <br>
-Technologies:<br>
+Technologies:
+
 
  Frontend: React <br>
  Backend: Node.js/Express.js<br>
@@ -37,7 +39,8 @@ Live website 🔗:https://food-del-frontend-7swt.onrender.com<br>
 
 <br>
 <br>
-Installation:<br>
+Installation:
+
 
 
 
@@ -82,6 +85,7 @@ step 4: Configure Stripe:<br>
 <br>
 
 Running the Application:
+
 
    step 1: 
    

@@ -4,8 +4,8 @@ Food Delivery Full-Stack Website
 
 <br>
 This project is a full-stack web application that allows users to order food online, featuring a user-friendly interface, filtering by category, secure payment processing with Stripe, a comprehensive checkout page, and an admin panel for restaurant management.
-
-
+<br>
+<br>
 Features:
 
 <br>
@@ -22,8 +22,8 @@ Features:
 
 <br>
 <br>
-Technologies:
-<br>
+Technologies:<br>
+
  Frontend: React <br>
  Backend: Node.js/Express.js<br>
  Database: MongoDB<br>
@@ -37,7 +37,7 @@ Live website 🔗:https://food-del-frontend-7swt.onrender.com<br>
 
 <br>
 <br>
-Installation:
+Installation:<br>
 
 
 
@@ -64,17 +64,17 @@ Note: you can skip step 3 & 4 if you don't want to create your own connection st
 <br>
 <br>
    
-step 3: Configure database connection:
+step 3: Configure database connection:<br>
 
-<br>
+
    - create and Copy the Connection String And Paste It inside food-del\backend\config>  file `db.js` replace password    with password you set previously.
 
 
 <br>
 
-step 4: Configure Stripe:
+step 4: Configure Stripe:<br>
 
-<br>
+
    - Create a Stripe account and obtain your API key.
    -Open .env file in backend folder paste your stripe secret key in STRIPE_SECRET_KEY variable.
 

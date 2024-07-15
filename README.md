@@ -24,16 +24,16 @@ Technologies:
  Payment Gateway: Stripe<br>
 
 
-Live website 🔗:https://food-del-frontend-7swt.onrender.com
+Live website 🔗:https://food-del-frontend-7swt.onrender.com<br>
 
 
-Installation:
+Installation:<br>
 
 
   step 1: Clone the repository:
 
       https://github.com/riyalchandrakar/Full-Stack.git   
-   
+   <br>
   step 2: Install dependencies:
    
    cd food-del\admin><br>
@@ -45,21 +45,21 @@ Installation:
    cd food-del\frontend><br>
    npm install
 
-
+<br>
 Note: you can skip step 4 & 5 if you don't want to create your own connection string and stripe API key.
 
-   
+   <br>
 step 4: Configure database connection:
 
    - create and Copy the Connection String And Paste It inside food-del\backend\config>  file `db.js` replace password    with password you set previously.
 
-
+<br>
 step 5: Configure Stripe:
 
    - Create a Stripe account and obtain your API key.
    -Open .env file in backend folder paste your stripe secret key in STRIPE_SECRET_KEY variable.
 
-
+<br><br>
 Running the Application:
 
    step 1: 

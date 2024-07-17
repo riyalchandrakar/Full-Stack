@@ -71,6 +71,7 @@ step 3: Configure database connection:<br>
 
 
    - create and Copy the Connection String And Paste It inside food-del\backend\config>  file `db.js` replace password    with password you set previously.
+   - you can refer the pdf file for detailed steps.
 
 
 <br>
